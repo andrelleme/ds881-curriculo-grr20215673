@@ -53,7 +53,7 @@ export const ptData = {
     },
   ],
 
-  skills: [
+skills: [
   {
     category: "Desenvolvimento Backend",
     tags: [".NET 8 / C#", "ASP.NET Core", "Java / Spring", "Python", "Node.js"],
