@@ -157,17 +157,7 @@ docs: atualiza readme
 
 # 6. Evidência da Proteção da Branch Main
 
-Adicionar screenshot da configuração de proteção da branch:
-
-```text
-docs/branch-protection.png
-```
-
-Após adicionar a imagem:
-
-```md
 ![Branch Protection](docs/branch-protection.png)
-```
 
 ---
 

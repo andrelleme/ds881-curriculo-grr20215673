@@ -53,7 +53,7 @@ export const enData = {
     },
   ],
 
-  skills: [
+skills: [
   {
     category: "Backend Development",
     tags: [".NET 8 / C#", "ASP.NET Core", "Java / Spring", "Python", "REST APIs"],
