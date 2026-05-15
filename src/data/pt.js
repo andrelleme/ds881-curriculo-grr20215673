@@ -25,7 +25,7 @@ export const ptData = {
         "Padronizei a documentação técnica no Confluence, mapeando processos legados inexistentes e facilitando o onboarding do time e a conformidade em auditorias.",
         "Colaborei em ambiente ágil participando de Dailies e Code Reviews, assegurando a qualidade de código e conformidade com padrões de Clean Architecture e SOLID.",
         "Contribuí para atividades relacionadas a auditoria de TI interna e externa, incluindo levantamento de evidências,análise de controles tecnológicos e apoio na mitigação de apontamentos críticos.",
-        "Gerenciei incidentes e solicitações utilizando práticas ITSM e plataforma ServiceNow"
+        "Gerenciei incidentes e solicitações utilizando práticas ITSM e plataforma ServiceNow."
       ],
     },
   ],
@@ -54,23 +54,31 @@ export const ptData = {
   ],
 
   skills: [
-    {
-      category: "Backend",
-      tags: [".NET 8 / C#", "ASP.NET Core", "Java / Spring", "Python", "REST APIs", "Microsserviços", "Service Bus"],
-    },
-    {
-      category: "Cloud & IaC",
-      tags: ["Azure", "App Services", "Functions", "App Insights", "Terraform", "Docker", "Azure DevOps","AWS"],
-    },
-    {
-      category: "Dados & Arquitetura",
-      tags: ["SQL Server", "PostgreSQL", "Clean Architecture", "DDD", "SOLID", "ETL"],
-    },
-    {
-      category: "Frontend & Outros",
-      tags: ["React.js", "Confluence", "Scrum", "Kanban"],
-    },
-  ],
+  {
+    category: "Desenvolvimento Backend",
+    tags: [".NET 8 / C#", "ASP.NET Core", "Java / Spring", "Python", "Node.js"],
+  },
+  {
+    category: "Desenvolvimento Frontend",
+    tags: ["React.js", "Angular", "TypeScript", "Tailwind CSS", "HTML5 / CSS3"],
+  },
+  {
+    category: "Cloud (Azure & AWS)",
+    tags: ["App Services", "Azure Functions", "AWS S3", "EC2", "Lambda"],
+  },
+  {
+    category: "DevOps & CI/CD",
+    tags: ["Azure DevOps", "Azure Pipelines", "Docker", "Terraform", "GitHub Actions"],
+  },
+  {
+    category: "Arquitetura & Dados",
+    tags: ["Clean Architecture", "DDD", "SQL Server", "PostgreSQL", "MongoDB", "Service Bus"],
+  },
+  {
+    category: "Agile & Gestão",
+    tags: ["Scrum", "Kanban", "ITSM", "ServiceNow", "Confluence", "App Insights"],
+  },
+],
 
   education: [
     {
