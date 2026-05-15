@@ -1,0 +1,11 @@
+.section {
+  padding: 3rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.text {
+  font-size: 17px;
+  line-height: 1.75;
+  color: var(--text);
+  max-width: 680px;
+}
